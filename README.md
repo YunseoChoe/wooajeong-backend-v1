@@ -81,3 +81,11 @@ Backend|Security|Database|Deployment|Other|
 
 ## 🗂️ Database
 <img width="1090" height="376" alt="image" src="https://github.com/user-attachments/assets/f1ca38de-59ed-475e-a8fe-63a3a9d873f4" />
+
+## 🧑‍🧑‍🧒‍🧒 Team
+
+| 이름 | 역할 | 
+| --- | --- | 
+| 장성원 (팀장) | AI, 블록체인 |
+| 권인우 | 프론트엔드 |
+| 최윤서 | 백엔드 | 
