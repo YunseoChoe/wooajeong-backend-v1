@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>
-    블록체인 기반 안심 중고거래 AI 플랫폼
+    안심 중고거래 통합 플랫폼
   </strong>
 </p>
 <br>
